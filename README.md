@@ -144,19 +144,3 @@ Turn on `SET STATISTICS IO, TIME ON` and **Include Actual Execution Plan**, run 
 
 - SQL Server (T-SQL)
 - SQL Server Management Studio (SSMS)
-
----
-
-## 9. Progress checklist
-
-- [ ] Q1 Top 20 completed orders
-- [ ] Q2 Customers who never ordered
-- [ ] Q3 Top 3 products per category
-- [ ] Q4 Monthly revenue trend
-- [ ] Q5 Spend quartiles
-- [ ] Q6 Category subtree under 'Computers'
-- [ ] Q7 Team revenue up the org chart
-- [ ] Q8 Incremental `MERGE` into `fact_orders` with verification
-- [ ] Q9 CDC `MERGE` into `dim_product` with verification
-- [ ] Q10 Query tuning with logical reads before and after
-- [ ] Q11 (Bonus) Loyalty streaks
